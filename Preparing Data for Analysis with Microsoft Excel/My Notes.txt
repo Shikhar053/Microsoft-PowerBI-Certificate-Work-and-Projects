@@ -1,0 +1,20 @@
+Formulas:
+Operator Precedence in Excel(Decreasing Order):
+Exponent
+Multiplication
+Division
+Addition
+Subtraction
+Equivalence
+Greater than
+Less than
+Functions that can be used to standardize text data
+1. LEFT (Extract Left of Text)
+2. RIGHT(Extract Right of text)
+3.MID ( EXTRACT MIDDLE OF TEXT)
+4. TRIM (Remove all spaces except spaces b/w words)
+5.UPPER (uppercase)
+6. LOWER (Lowercase)
+7.PROPER ( capitalize first letter of each word)
+
+8. CONCAT  =CONCAT(A2,” “,B2,” “,C2)
